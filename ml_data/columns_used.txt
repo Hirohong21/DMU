@@ -1,0 +1,227 @@
+port
+ip_1
+ip_2
+ip_3
+ip_4
+contains [
+contains ]
+contains {
+contains }
+contains (
+contains )
+contains ;
+contains :
+contains '
+contains @
+contains #
+contains ~
+contains <
+contains >
+contains ,
+contains .
+contains ?
+contains /
+contains \
+contains |
+contains `
+contains ¬
+contains !
+contains "
+contains ^
+contains &
+contains *
+contains -
+contains _
+contains +
+contains =
+contains %
+contains $
+contains £
+url length
+https
+netloc_length
+path_length
+params_length
+query_length
+fragment_length
+status_code
+content_length
+tld_ad
+tld_au
+tld_bd
+tld_br
+tld_bz
+tld_ca
+tld_ch
+tld_cm
+tld_cn
+tld_com
+tld_cx
+tld_edu
+tld_eu
+tld_fr
+tld_gov
+tld_in
+tld_info
+tld_ir
+tld_jp
+tld_li
+tld_link
+tld_net
+tld_net 
+tld_ni
+tld_org
+tld_pe
+tld_rio
+tld_ro
+tld_ru
+tld_sa
+tld_tw
+tld_ua
+tld_uk
+tld_us
+tld_xyz
+tld_nan
+servers_ATS
+servers_AmazonS3
+servers_Apache
+servers_Apache-Coyote/1.1
+servers_Apache/2
+servers_Apache/2.0.52 (Red Hat)
+servers_Apache/2.2.15 (CentOS)
+servers_Apache/2.2.15 (Red Hat) PHP/5.3.27
+servers_Apache/2.4.29 (Ubuntu)
+servers_Apache/2.4.41 (Ubuntu)
+servers_Apache/2.4.46 (Amazon) OpenSSL/1.0.2k-fips
+servers_Apache/2.4.46 (FreeBSD) OpenSSL/1.0.2u-freebsd PHP/7.4.9
+servers_Apache/2.4.46 (Ubuntu)
+servers_Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+servers_Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.1.33
+servers_Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.27
+servers_Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/5.4.16
+servers_Apache/2.4.6 (Red Hat Enterprise Linux)
+servers_BunnyCDN-TX1-711
+servers_CloudFront
+servers_ESF
+servers_GSE
+servers_LiteSpeed
+servers_Microsoft-IIS/10.0
+servers_Microsoft-IIS/7.5
+servers_Microsoft-IIS/8.0
+servers_Microsoft-IIS/8.5
+servers_NR_WEB
+servers_NginX
+servers_Server
+servers_Squarespace
+servers_Sucuri/Cloudproxy
+servers_Sun-ONE-Web-Server/6.1
+servers_UploadServer
+servers_Varnish
+servers_Zope/(2.13.28, python 2.7.9, linux2) ZServer/1.1
+servers_cloudflare
+servers_mw1365.eqiad.wmnet
+servers_nginx
+servers_nginx/1.12.2
+servers_nginx/1.14.0 (Ubuntu)
+servers_nginx/1.14.1
+servers_nginx/1.14.2
+servers_nginx/1.16.1
+servers_nginx/1.16.1 (Ubuntu)
+servers_nginx/1.8.1
+servers_openresty
+servers_openresty/1.15.8.1
+servers_sffe
+servers_tcellcdn
+servers_nan
+asn_country_code_AR
+asn_country_code_AT
+asn_country_code_AU
+asn_country_code_BG
+asn_country_code_BR
+asn_country_code_CA
+asn_country_code_CH
+asn_country_code_CN
+asn_country_code_CO
+asn_country_code_CY
+asn_country_code_DE
+asn_country_code_FR
+asn_country_code_GB
+asn_country_code_IN
+asn_country_code_JP
+asn_country_code_KR
+asn_country_code_NI
+asn_country_code_NL
+asn_country_code_PL
+asn_country_code_RO
+asn_country_code_RU
+asn_country_code_SG
+asn_country_code_TW
+asn_country_code_UA
+asn_country_code_US
+asn_country_code_VN
+asn_country_code_nan
+nets_country_code_AR
+nets_country_code_AT
+nets_country_code_AU
+nets_country_code_BG
+nets_country_code_CA
+nets_country_code_CH
+nets_country_code_CN
+nets_country_code_CO
+nets_country_code_DE
+nets_country_code_EU
+nets_country_code_FR
+nets_country_code_GB
+nets_country_code_IE
+nets_country_code_IN
+nets_country_code_JP
+nets_country_code_KR
+nets_country_code_NI
+nets_country_code_NL
+nets_country_code_PL
+nets_country_code_RO
+nets_country_code_RU
+nets_country_code_SG
+nets_country_code_TW
+nets_country_code_UA
+nets_country_code_US
+nets_country_code_VN
+nets_country_code_nan
+status_code_403.0
+status_code_404.0
+status_code_406.0
+status_code_410.0
+status_code_451.0
+status_code_500.0
+status_code_503.0
+status_code_999.0
+status_code_nan
+asn_reg_arin
+asn_reg_lacnic
+asn_reg_ripencc
+asn_reg_nan
+x_powered_by_ASP.NET
+x_powered_by_Express
+x_powered_by_PHP/5.3.3
+x_powered_by_PHP/5.4.16
+x_powered_by_PHP/5.6.40
+x_powered_by_PHP/7.1.19
+x_powered_by_PHP/7.1.33
+x_powered_by_PHP/7.1.33-34+ubuntu20.04.1+deb.sury.org+1
+x_powered_by_PHP/7.2.16
+x_powered_by_PHP/7.2.33
+x_powered_by_PHP/7.3.27
+x_powered_by_PHP/7.4.11
+x_powered_by_PHP/7.4.11, ASP.NET
+x_powered_by_PHP/7.4.9
+x_powered_by_Phusion Passenger 6.0.0
+x_powered_by_W3 Total Cache/0.11.0
+x_powered_by_WordPress VIP <https://wpvip.com>
+x_powered_by_science!
+x_powered_by_nan
+expires_year
+expires_month
+expires_day
+asn_date_year
+asn_date_month
+asn_date_day
